@@ -8,4 +8,3 @@ public class Privet {
             System.out.println("Привет, " + name);
         }
     }
-branch
