@@ -1,3 +1,5 @@
+package Task2_Privet;
+
 import java.util.Scanner;
 
 public class Privet {
