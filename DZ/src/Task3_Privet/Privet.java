@@ -1,4 +1,4 @@
-package Task2_Privet;
+package Task3_Privet;
 
 import java.util.Scanner;
 
