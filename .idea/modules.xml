@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DZ3/DZ.iml" filepath="$PROJECT_DIR$/DZ3/DZ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ/DZ.iml" filepath="$PROJECT_DIR$/DZ/DZ.iml" />
       <module fileurl="file://$PROJECT_DIR$/DZ2/DZ2.iml" filepath="$PROJECT_DIR$/DZ2/DZ2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RTK.AWDIK.iml" filepath="$PROJECT_DIR$/.idea/RTK.AWDIK.iml" />
     </modules>
