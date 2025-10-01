@@ -1,0 +1,28 @@
+player;Герой;23;5
+inventory;
+room;Лес
+rooms_count;4
+room_name;Пещера
+room_description;Темно и сыро.
+neighbors;west
+items;Key:Ключ от секретной двери
+monster;
+door;
+room_name;Площадь
+room_description;Каменная площадь с фонтаном.
+neighbors;north
+items;
+monster;
+door;
+room_name;Лес
+room_description;Шелест листвы и птичий щебет.
+neighbors;east,south
+items;
+monster;
+door;
+room_name;Комната сокровищ
+room_description;Таинственная комната с сокровищами.
+neighbors;
+items;Weapon:Волшебный меч
+monster;
+door;Секретная дверь:true:false

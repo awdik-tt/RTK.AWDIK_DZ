@@ -1,0 +1,15 @@
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/Main.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/core/InvalidCommandException.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/core/WorldInfo.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/core/SaveLoad.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/core/Game.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/core/Command.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/Monster.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/Player.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/Entity.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/Item.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/Potion.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/Weapon.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/Room.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/GameState.java
+/home/aleksandrov-adm/projects/vadim/java-console-game-template/src/com/example/dungeon/model/Key.java
