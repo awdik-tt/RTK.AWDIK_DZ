@@ -44,8 +44,9 @@ public class Person {
     }
 
     public boolean buyProduct(Product product) {
-        if (product.getCost() <= this.money) {
-            this.money -= product.getCost();
+        double productCost = product.getCost();
+        if (productCost <= this.money) {
+            this.money -= productCost;
             packageProducts.add(product);
             return true;
         }
